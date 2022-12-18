@@ -9,5 +9,7 @@ tests JPA API
 - Works with H2 DB
 
 # In General
+
 Start just like any other spring-boot app 😄
+
 Demonstrates CRUD operations on USERS resource.
